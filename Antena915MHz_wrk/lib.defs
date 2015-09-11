@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE Antena915MHz_lib Antena915MHz_lib
+ASSIGN Antena915MHz_lib libMode shared

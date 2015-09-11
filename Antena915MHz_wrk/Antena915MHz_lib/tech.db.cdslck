@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      epf
+HostName                       Supersonic
+ProcessIdentifier              6036
+ProcessCreationTime_UTC        1355792701
+ProcessCreationTime_Readable   12/18/12 01:05:01 Hora universal coordinada
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         D:\Design\ADS\Antena915MHz_wrk\Antena915MHz_lib\tech.db.cdslck
+TimeEditLocked                 12/18/12 01:08:28 Hora universal coordinada
